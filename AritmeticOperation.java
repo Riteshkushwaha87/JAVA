@@ -1,7 +1,5 @@
 package Basics;
 
-import java.sql.SQLOutput;
-
 public class ArithmeticOperatin {
     public static void main(String[] args){
        // int x=10, y=4;      it will not return decimal value
